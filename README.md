@@ -1,8 +1,7 @@
-**ESCRIBO – TESTE TÉCNICO 01**
+<h1>ESCRIBO – TESTE TÉCNICO 01</h1>
 <p>Teste desenvolvido utilizando php, script para ser executado através da linha de comando do SO.</p>
 
 **Descrição do desafio:**
-
 Implementar uma função que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
 
