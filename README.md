@@ -1,6 +1,6 @@
 **ESCRIBO – TESTE TÉCNICO 01**
 
-Teste desenvolvido utilizando php, script para ser executado através da linha de comando do SO.
+<p>Teste desenvolvido utilizando php, script para ser executado através da linha de comando do SO.</p>
 
 
 **Descrição do desafio:**
