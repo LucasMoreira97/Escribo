@@ -9,4 +9,3 @@
 <p>Faça o download dos arquivos ou se preferir, crie um clone do projeto
 Tenha o PHP instalado em sua máquina e certifique-se de que as variáveis de ambiente estão configuradas.
 Para executar o script, abra o terminal do seu SO, localize a pasta onde fez o download do script, e digite o comando: php  script.php</p>
-
